@@ -1,9 +1,3 @@
-# js-kata-starter
+# b-life-test-runner-kata
 
-Starter project for kata (Node, TypeScript, Jest)
-
-## Getting started
-
-- **Fork**, then clone the repository
-- Install dependencies
-- Start developing (`npm test`)
+Implement a test runner, as if none existed yet!
